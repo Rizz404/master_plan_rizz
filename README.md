@@ -1,6 +1,6 @@
 # Praktikum 1: Dasar State dengan Model-View
 
-![GIF Placeholder Praktikum 1](assets\images\praktikum-1.gif)
+![GIF Praktikum 1](assets/images/praktikum-1.gif)
 
 ## Penjelasan
 
@@ -23,7 +23,7 @@ Di praktikum pertama belajar tentang dasar-dasar state management dengan pendeka
 
 # Praktikum 2: Provider sebagai State Management
 
-![GIF Placeholder Praktikum 2](assets\images\praktikum-2.gif)
+![GIF Praktikum 2](assets/images/praktikum-2.gif)
 
 ## Penjelasan
 
@@ -42,7 +42,7 @@ Nah, di praktikum kedua mulai pakai `Provider` buat state management. Tapi bukan
 
 # Praktikum 3: Perubahan Navigasi dan UI
 
-![GIF Placeholder Praktikum 3](assets\images\praktikum-3.gif)
+![GIF Praktikum 3](assets/images/praktikum-3.gif)
 
 ## Penjelasan
 
