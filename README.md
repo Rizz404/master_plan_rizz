@@ -56,3 +56,6 @@ Di praktikum ini, fokus ke perubahan UI dan navigasi dengan `Navigator.push()`. 
 4. **Gunakan `SafeArea`** supaya UI nggak ketutup notch di beberapa HP.
 5. **Perbaiki Struktur Widget** supaya lebih rapi dan maintainable.
 6. **Optimasi UI** dengan padding dan styling biar lebih enak dilihat.
+
+**Lampiran:**
+https://drive.google.com/drive/folders/11k9Pwdd1ptUISeCJj7Zj_DUpAUgjELox?usp=sharing
